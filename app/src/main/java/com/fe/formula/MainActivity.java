@@ -305,7 +305,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         final String appPakageName = context.getPackageName();
         Intent sendIntent = new Intent();
         sendIntent.setAction(Intent.ACTION_SEND);
-        sendIntent.putExtra(Intent.EXTRA_TEXT, "https://www.mediafire.com/file/059yql9etf6gtwk/app-release.apk/file");
+        sendIntent.putExtra(Intent.EXTRA_TEXT, "down load link file");
         sendIntent.setType("text/plain");
         context.startActivity(sendIntent);
 
