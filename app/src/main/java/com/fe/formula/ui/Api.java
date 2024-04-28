@@ -7,15 +7,15 @@ import retrofit2.http.GET;
 
 public class Api
 {
-    private static final String key="AIzaSyBBjzl60xFsfR3_xTygmQF2QS0Tyq80vrs";
+    private static final String key="your api";
     private static Postlist postlist=null;
-    private static String url="https://www.googleapis.com/";
+    private static String url="";
 
 
 
     public interface  Postlist
     {
-        @GET("blogger/v3/blogs/923828349976312167/posts?key="+key)
+        @GET("="key)
         Call<Example> getpost();
     }
 
