@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613960712565",
+    "project_id": "formula-6da30",
+    "storage_bucket": "formula-6da30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613960712565:android:ad0760fad79b8776b5d33c",
+        "android_client_info": {
+          "package_name": "com.fe.formula"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0P_RyT8fldtcOWtKzN69WjoDDr8DxVbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
